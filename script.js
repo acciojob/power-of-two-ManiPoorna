@@ -13,5 +13,5 @@ const isPowerOfTwo = (number) => {
 	return false
 };
 
-// const num = parseInt(prompt("Enter a number"));
+const num = parseInt(prompt("Enter a number"));
 alert(isPowerOfTwo(num));
